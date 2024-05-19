@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E556ED732BF355E600EC8106 /* HR30DCDay28.swift in Sources */ = {isa = PBXBuildFile; fileRef = E556ED722BF355E600EC8106 /* HR30DCDay28.swift */; };
+		E556ED752BF3594D00EC8106 /* HR30DCDay29.swift in Sources */ = {isa = PBXBuildFile; fileRef = E556ED742BF3594D00EC8106 /* HR30DCDay29.swift */; };
 		E59509572BE1FB1300BDDFA4 /* DSACoursesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509562BE1FB1300BDDFA4 /* DSACoursesApp.swift */; };
 		E59509592BE1FB1300BDDFA4 /* CodingPlatformsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509582BE1FB1300BDDFA4 /* CodingPlatformsView.swift */; };
 		E595095B2BE1FB1400BDDFA4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E595095A2BE1FB1400BDDFA4 /* Assets.xcassets */; };
@@ -20,10 +22,15 @@
 		E59509752BE211CF00BDDFA4 /* PreparationKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509742BE211CF00BDDFA4 /* PreparationKit.swift */; };
 		E59509772BE211E200BDDFA4 /* Exercice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509762BE211E200BDDFA4 /* Exercice.swift */; };
 		E595097A2BE2120500BDDFA4 /* HR30DaysOfCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509792BE2120500BDDFA4 /* HR30DaysOfCode.swift */; };
-		E595097E2BE2126600BDDFA4 /* ExerciceOutput.swift in Sources */ = {isa = PBXBuildFile; fileRef = E595097D2BE2126600BDDFA4 /* ExerciceOutput.swift */; };
+		E595097E2BE2126600BDDFA4 /* ExerciceContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = E595097D2BE2126600BDDFA4 /* ExerciceContent.swift */; };
+		E59509802BE3E40200BDDFA4 /* HR30DCDay24.swift in Sources */ = {isa = PBXBuildFile; fileRef = E595097F2BE3E40200BDDFA4 /* HR30DCDay24.swift */; };
+		E59509822BE525CC00BDDFA4 /* HR30DCDay25.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509812BE525CC00BDDFA4 /* HR30DCDay25.swift */; };
+		E59509842BE66BFC00BDDFA4 /* HR30DCDay26.swift in Sources */ = {isa = PBXBuildFile; fileRef = E59509832BE66BFC00BDDFA4 /* HR30DCDay26.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E556ED722BF355E600EC8106 /* HR30DCDay28.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DCDay28.swift; sourceTree = "<group>"; };
+		E556ED742BF3594D00EC8106 /* HR30DCDay29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DCDay29.swift; sourceTree = "<group>"; };
 		E59509532BE1FB1300BDDFA4 /* DSA Courses.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "DSA Courses.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E59509562BE1FB1300BDDFA4 /* DSACoursesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSACoursesApp.swift; sourceTree = "<group>"; };
 		E59509582BE1FB1300BDDFA4 /* CodingPlatformsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodingPlatformsView.swift; sourceTree = "<group>"; };
@@ -38,7 +45,10 @@
 		E59509742BE211CF00BDDFA4 /* PreparationKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreparationKit.swift; sourceTree = "<group>"; };
 		E59509762BE211E200BDDFA4 /* Exercice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercice.swift; sourceTree = "<group>"; };
 		E59509792BE2120500BDDFA4 /* HR30DaysOfCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DaysOfCode.swift; sourceTree = "<group>"; };
-		E595097D2BE2126600BDDFA4 /* ExerciceOutput.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciceOutput.swift; sourceTree = "<group>"; };
+		E595097D2BE2126600BDDFA4 /* ExerciceContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciceContent.swift; sourceTree = "<group>"; };
+		E595097F2BE3E40200BDDFA4 /* HR30DCDay24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DCDay24.swift; sourceTree = "<group>"; };
+		E59509812BE525CC00BDDFA4 /* HR30DCDay25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DCDay25.swift; sourceTree = "<group>"; };
+		E59509832BE66BFC00BDDFA4 /* HR30DCDay26.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HR30DCDay26.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +110,11 @@
 			isa = PBXGroup;
 			children = (
 				E59509662BE1FB6000BDDFA4 /* HR30DCDay23.swift */,
+				E595097F2BE3E40200BDDFA4 /* HR30DCDay24.swift */,
+				E59509812BE525CC00BDDFA4 /* HR30DCDay25.swift */,
+				E59509832BE66BFC00BDDFA4 /* HR30DCDay26.swift */,
+				E556ED722BF355E600EC8106 /* HR30DCDay28.swift */,
+				E556ED742BF3594D00EC8106 /* HR30DCDay29.swift */,
 			);
 			path = "30 Days of Code";
 			sourceTree = "<group>";
@@ -148,7 +163,7 @@
 				E59509682BE1FC1A00BDDFA4 /* CodingPlatform.swift */,
 				E59509742BE211CF00BDDFA4 /* PreparationKit.swift */,
 				E59509762BE211E200BDDFA4 /* Exercice.swift */,
-				E595097D2BE2126600BDDFA4 /* ExerciceOutput.swift */,
+				E595097D2BE2126600BDDFA4 /* ExerciceContent.swift */,
 			);
 			path = Common;
 			sourceTree = "<group>";
@@ -227,14 +242,19 @@
 				E59509772BE211E200BDDFA4 /* Exercice.swift in Sources */,
 				E59509592BE1FB1300BDDFA4 /* CodingPlatformsView.swift in Sources */,
 				E59509692BE1FC1A00BDDFA4 /* CodingPlatform.swift in Sources */,
+				E556ED752BF3594D00EC8106 /* HR30DCDay29.swift in Sources */,
 				E595097A2BE2120500BDDFA4 /* HR30DaysOfCode.swift in Sources */,
 				E595096C2BE20F4700BDDFA4 /* Destination.swift in Sources */,
+				E59509802BE3E40200BDDFA4 /* HR30DCDay24.swift in Sources */,
 				E595096F2BE20F8300BDDFA4 /* PreparationKitsView.swift in Sources */,
+				E556ED732BF355E600EC8106 /* HR30DCDay28.swift in Sources */,
 				E59509752BE211CF00BDDFA4 /* PreparationKit.swift in Sources */,
-				E595097E2BE2126600BDDFA4 /* ExerciceOutput.swift in Sources */,
+				E595097E2BE2126600BDDFA4 /* ExerciceContent.swift in Sources */,
 				E59509672BE1FB6000BDDFA4 /* HR30DCDay23.swift in Sources */,
 				E59509572BE1FB1300BDDFA4 /* DSACoursesApp.swift in Sources */,
 				E59509712BE20FFC00BDDFA4 /* PreparationKitDetailView.swift in Sources */,
+				E59509842BE66BFC00BDDFA4 /* HR30DCDay26.swift in Sources */,
+				E59509822BE525CC00BDDFA4 /* HR30DCDay25.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
